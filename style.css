@@ -1,0 +1,31 @@
+.image{
+    border-radius: 250px;
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    
+}
+#tab1{
+    text-align: center;
+    background: linear-gradient(#5eff66 0%,#63f5ff 100%);
+    opacity: 1;
+    height: 700px;
+    padding: 50px;
+}
+.h1{
+    font-family: cursive;
+    color:yellow; 
+}
+#tab2{
+    text-align: center;
+    background: linear-gradient(#ff3b3b 0%,#fff642 100%);
+    opacity: 1;
+    height: 200px;
+    padding: 50px;
+}
+#h2{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Lobster',cursive;
+    color: crimson;
+}
